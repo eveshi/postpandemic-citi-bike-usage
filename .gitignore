@@ -1,2 +1,3 @@
-# *.csv
+*.csv
+*.csv.zip
 .DS_Store
